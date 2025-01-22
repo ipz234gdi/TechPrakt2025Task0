@@ -9,30 +9,23 @@
 - аутентифікація на **GitHub** за допомогою токена та через **SSH**;
 - вивантаження локального репозиторію на **GitHub**.
 
-<div style="margin-top: 20px; margin-left: 20px;">
-    <strong>У практичній роботі №1</strong> було:
-   <div style="margin-left: 20px; padding-top: 10px;">
-        1. створено локальний репозиторій<br>
-        2. створено віддалений репозиторій на GitHub  <br>
-        3. зроблено коміти у локальному репозиторії  <br>
-        4. вивантажено усі коміти з локального у віддалений репозиторій<br>
-  </div>
-</div>
+    У **практичній роботі №1**> було:
+1. створено локальний репозиторій
+2. створено віддалений репозиторій на GitHub
+3. зроблено коміти у локальному репозиторії
+4. вивантажено усі коміти з локального у віддалений репозиторій
 
-<div style="margin-left: 20px; margin-bottom: 20px; margin-top: 20px;">
-    <strong>Використані команди Git</strong><br>
-    <p style=" margin-top: 10px;">У <strong>практичній роботі №1</strong> було використано такі команди Git:<p>
-    <div style="margin-left: 20px; margin-bottom: 20px; padding-top: 10px;">
-    [x] git init<br>
-    [x] git status<br>
-    [x] git add<br>
-    [x] git commit<br>
-    [x] git remote add<br>
-    [x] git push<br>
-    [ ] git pull<br>
-    [ ] git branch<br>
-    </div>
-</div>
-<div style="margin-left: 30px;">
-Виконав: <strong>Грушевицький Денис</strong>
-</div>
+**Використані команди Git**
+
+У **практичній роботі №1** було використано такі команди Git:
+- [x] git init
+- [x] git status
+- [x] git add
+- [x] git commit
+- [x] git remote add
+- [x] git push
+- [ ] git pull
+- [ ] git branch
+
+Виконав: **Грушевицький Денис**
+
